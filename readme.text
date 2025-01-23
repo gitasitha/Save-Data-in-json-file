@@ -1,6 +1,7 @@
                                                 ***Read me*** 
 
-Add Data = node app.js add --name="Asitha" --address="Gampola" --contact_no=123 --visit_date="2024.12.19"
+firstly install node_modules using "nmm install" command
+Ad d Data = node app.js add --name="Asitha" --address="Gampola" --contact_no=123 --visit_date="2024.12.19"
 Update = node app.js update --id=1 --name="lakmal" --contact_no=123334 --address="kandy" --visit_date="2023.12.23"
 delete =node app.js delete --id=(using id and delete)
 list = node app.js list
